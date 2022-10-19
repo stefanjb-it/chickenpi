@@ -1,0 +1,16 @@
+{
+  "name": "js_server_fence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "SJB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "onoff": "^5.0.1"
+  }
+}

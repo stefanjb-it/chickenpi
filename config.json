@@ -1,0 +1,11 @@
+{
+    "SW_UP":17,
+    "SW_DW":27,
+    "LED_UP":10,
+    "LED_DW":11,
+    "LED_G":9,
+    "END_UP":25,
+    "END_DW":8,
+    "REL_DW":24,
+    "REL_UP":23
+}
