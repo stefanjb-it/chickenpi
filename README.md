@@ -1,7 +1,7 @@
 # ChickenPi
 
-Example solution written in Javascript
-Simple and easy REST API to control a pin of a Raspberry PI
+Example solution written in Javascript</br>
+Simple and easy REST API to control a pin of a Raspberry PI</br>
 Only working on Raspberry Pi
 
 ## Used NPM Packages:
